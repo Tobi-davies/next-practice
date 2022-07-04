@@ -1,8 +1,12 @@
 const Main = () => {
   return (
     // <div className="w-full lg:w-3/4 lg:ml-auto flex align-center justify-center pt-8 bg-darkNavyBlue">
-    <div className="w-full lg:w-3/4 lg:ml-auto  pt-8 bg-darkNavyBlue">
-      <div style={{ border: "1px solid red" }} className="max-w-2xl">
+    <div className="w-full lg:w-3/4 lg:ml-auto  pt-8 bg-darkNavyBlue flex justify-center">
+      <div
+        //  style={{ border: "1px solid red" }}
+
+        className="max-w-2xl"
+      >
         <div className="pb-4">vhlgutcvh</div>
         <div className="grid sm:grid-cols-4 lg:grid-cols-5 gap-5 mb-16">
           <div className="bg-blue text-white py-3 px-4">
