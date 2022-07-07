@@ -3,7 +3,7 @@ const Main = () => {
     // <div className="w-full lg:w-3/4 lg:ml-auto flex align-center justify-center pt-8 bg-darkNavyBlue">
     <div className="w-full lg:w-3/4 lg:ml-auto py-8 bg-darkNavyBlue sm:flex sm:justify-center">
       <div
-        style={{ border: "1px solid red" }}
+        // style={{ border: "1px solid red" }}
         className="max-w-full  sm:max-w-2xl px-6 sm:px-6"
         // className="max-w-full"
       >
