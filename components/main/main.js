@@ -8,7 +8,7 @@ const Main = () => {
         // className="max-w-full"
       >
         <div className="pb-4">vhlgutcvh</div>
-        <div className="grid grid-cols-2 sm:grid-cols-4 lg:grid-cols-5 gap-5 mb-16">
+        <div className="grid grid-cols-2 sm:grid-cols-4 lg:grid-cols-5 gap-5 mb-16 px-6 sm:px-0">
           <div className="bg-blue text-white py-3 px-4">
             <p>Tomorrow</p>
             <p>Image</p>
